@@ -93,13 +93,6 @@ const styles = StyleSheet.create({
 <Image source={{ uriImage: 'https://picsum.photos/200' }} style={styles.onlineImage} />
 
 
-<Text style={styles.extra}>More Info</Text>
-<Text style={styles.extra}>More Info</Text>
-<Text style={styles.extra}>More Info</Text>
-<Text style={styles.extra}>More Info</Text>
-<Text style={styles.extra}>More Info</Text>
-
-
 
 
 
